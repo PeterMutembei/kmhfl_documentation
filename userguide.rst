@@ -1,3 +1,6 @@
 This is the user guide
 =======================
-bhihbl
+
+.. image:: /_static/images/download.png
+
+    
