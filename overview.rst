@@ -1,8 +1,6 @@
 Overview
 =========
-The Kenya Master Health Facility Application is basically built for the public users.
-It allows you to identify facilities nearby in regard to the health service needed.i.e 
-maternity,laboratory or child care services. It also gives an opportunity to give a
-comment on how well the hospital served you. The application works with the geolocator
-which helps to map the location of the user. Sections of the dashboard, registered 
-facilities and the facility locator are provided to help easen using the application.
+The Kenya Master Health Facility List Application is primarily built for the public users.
+It allows you to instantly identify facilities nearby in regard to the health service selected.i.e maternity,laboratory or emergency services. It also gives an opportunity to give a comment on how well the hospital served you. The application works with the geolocator which picks the location of the user and maps the nearby facilities depending on the service required by the user.
+
+
