@@ -11,13 +11,12 @@ Contents:
 
 
 .. toctree::
-   :maxdepth: 2
-   :caption: 
-
-   overview
-   requirements
-   userguide
-   installation
+    :maxdepth: 2
+   
+    overview
+    requirements
+    installation
+    userguide
    
 
 
