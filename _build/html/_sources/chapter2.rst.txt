@@ -1,0 +1,11 @@
+chapter2
+Kenya Master Health Facility List PWA
+=================================================
+
+Home Page
+----------
+The Kenya Master Health Facility List application can be found on 
+the website using the link http.www.kmhfl.org. Click on the app to 
+open it after the installation is done. This will bring up the home
+page screen as below:
+.. image :Images/Homepage1.PNG

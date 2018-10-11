@@ -13,10 +13,12 @@ Contents:
      :maxdepth: 2
    
      Introduction
-     installation
+     chapter.2
+     chapter3
+     chapter4
      userguide
      requirements
-     appfeatures
+     installation
    
 
 
