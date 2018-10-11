@@ -3,21 +3,16 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to kmhfl's documentation!
-=================================
+Welcome to Kmhfl's Progressive Web App documentation!
+======================================================
 
 Contents:
 =========
 
 
 .. toctree::
-     :maxdepth: 2
-   
-     overview
-     installation
-     userguide
-     requirements
-   
+    :maxdepth: 2
+ 
 
 
 Indices and tables
