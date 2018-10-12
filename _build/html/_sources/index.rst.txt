@@ -4,22 +4,16 @@
    contain the root `toctree` directive.
 
 Welcome to kmhfl's documentation!
-=================================
+==================================
 
 Contents:
 =========
 
 .. toctree::
-     :maxdepth: 2
-   
-     Introduction
-     chapter.2
-     chapter3
-     chapter4
+     
+     overview
      userguide
-     requirements
-     installation
-   
+     
 
 
 Indices and tables

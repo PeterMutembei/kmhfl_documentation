@@ -1,7 +1,0 @@
-hhjj
-App Features
-=============
-
-searches your location based on GPS – and it finds the hospitals around you.
-Opening the location of the hospital in Google maps, where people could search for the directions.
-showing a pop for comments from users who have accessed a faciltiy using the app.
