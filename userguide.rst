@@ -84,3 +84,7 @@ the "Details" card.This should come as a popup. Example:
 ****************************
 Chapter 4: Facility Locator
 ****************************
+On clicking on the facility geolocator, you are directed to 
+place you are diirectly and near health facilities 
+are made visible. This enables you to identify and choose
+which facility to obtain services from.
